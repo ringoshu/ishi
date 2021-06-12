@@ -55,7 +55,7 @@ const art6 = {
   "includeingallery": true,
 }
 const art7 = {
-  "link": "https://farm3.static.flickr.com/2428/3720893753_b9f90f3628_o.jpg",
+  "link": "https://farm4.static.flickr.com/3002/3720893609_b3e5f2ebca_o.jpg",
   "title": 'tsumiki',
   "media": 'at exit art, nyc. live audience performance project',
   "statement": 'repeating continuously during the exhibition, i build a meticulously perfect geometric structure that surrounds me and appears to trap me inside. once the structure is complete, i come out of it at once using only the force of my body. once outside of the structure, i rush to clean it up and start building it again from the dismantled structure. each construction takes about 15-20 minutes.',
@@ -223,7 +223,7 @@ const art31 = {
   "includeingallery": true,
 }
 const art32 = {
-  "link": "https://farm3.static.flickr.com/2636/3724838050_01b6514f2c_o.jpg",
+  "link": "https://farm3.static.flickr.com/2521/3701892612_cecdc22ff2_o.jpg",
   "title": 'kasa-casa',
   "media": 'Funded by NYC Department of Cultural Affairs, administered by Lower Manhattan Cultural Council',
   "statement": 'Interdisciplinary performance art presented at IS143 in Washington Heights, New York.',
@@ -368,7 +368,6 @@ const art = [
     art13,
     art14,
     art15,
-    art16,
     art17,
     art20,
     art21,
@@ -376,7 +375,6 @@ const art = [
     art23,
     art24,
     art25,
-    art26,
     art27,
     art30,
     art31,
@@ -384,7 +382,6 @@ const art = [
     art33,
     art34,
     art35,
-    art36,
     art37,
     art40,
     art41,
@@ -392,7 +389,6 @@ const art = [
     art43,
     art44,
     art45,
-    art46,
     art47,
     art50,
     art52
