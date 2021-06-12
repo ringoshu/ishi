@@ -334,6 +334,22 @@ const art47 = {
   "imageShape": "landscape",
   "includeingallery": true,
 }
+const art50 = {
+  "link": "https://farm3.static.flickr.com/2534/4276535317_6095db4d97_o.jpg",
+  "title": 'Blindfaith',
+  "media": 'At Exit Art (as part of the Performance in Crisis series), New York, NY',
+  "statement": 'Multimedia live performance. A live goldfish in a clear glass bowl is placed on a pedestal at each end of the space. Two performers mirror the same action repeatedly: one takes a cup of water from bowl A and pours it into bowl B, and the other does the opposite. In the center, the third performer walks in a large circle repeatedly. She is blindfolded and carries a live fish in a bowl. She dips her feet in this bowl making her footprints on the concrete floor. A 5 minute audio-visual file is projected on a wall and repeated throughout.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art52 = {
+  "link": "https://farm3.static.flickr.com/2625/3701084519_782bb8a493_o.jpg",
+  "title": 'kasa-casa',
+  "media": 'Funded by NYC Department of Cultural Affairs, administered by Lower Manhattan Cultural Council',
+  "statement": 'Interdisciplinary performance art presented at IS143 in Washington Heights, New York.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
 
 const art = [
     art0,
@@ -378,6 +394,8 @@ const art = [
     art45,
     art46,
     art47,
+    art50,
+    art52
 ]
 
 export default art

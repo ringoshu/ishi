@@ -14,7 +14,7 @@ function Header() {
         </a>
       </h1>
 
-      <p className="tagline">Tokyo-born, Brooklyn-based visual artist. Works on paper, performance, multimedia & other stuff.</p>
+      <p className="tagline">Tokyo-born, Brooklyn-based interdisciplinary artist.</p>
     </div>
   );
 }
