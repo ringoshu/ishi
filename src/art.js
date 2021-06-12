@@ -270,6 +270,70 @@ const art37 = {
   "imageShape": "landscape",
   "includeingallery": true,
 }
+const art40 = {
+  "link": "https://farm5.static.flickr.com/4069/4277279474_f4b4ec388e_o.jpg",
+  "title": 'Blindfaith',
+  "media": 'At Exit Art (as part of the Performance in Crisis series), New York, NY',
+  "statement": 'Multimedia live performance. A live goldfish in a clear glass bowl is placed on a pedestal at each end of the space. Two performers mirror the same action repeatedly: one takes a cup of water from bowl A and pours it into bowl B, and the other does the opposite. In the center, the third performer walks in a large circle repeatedly. She is blindfolded and carries a live fish in a bowl. She dips her feet in this bowl making her footprints on the concrete floor. A 5 minute audio-visual file is projected on a wall and repeated throughout.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art41 = {
+  "link": "https://farm5.static.flickr.com/4027/4274235769_02e623b57c_o.jpg",
+  "title": 'Polkadot',
+  "media": 'At Mazer Theater at Education Alliance, New York, NY USA',
+  "statement": 'Interdisciplinary performance art.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art42 = {
+  "link": "https://farm3.static.flickr.com/2558/3724837968_eea3f7741f_o.jpg",
+  "title": 'kasa-casa',
+  "media": 'Funded by NYC Department of Cultural Affairs, administered by Lower Manhattan Cultural Council',
+  "statement": 'Interdisciplinary performance art presented at IS143 in Washington Heights, New York.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art43 = {
+  "link": "https://farm3.static.flickr.com/2550/3717958220_c4392dd295_o.jpg",
+  "title": 'linebreak',
+  "media": 'At 320 Studios, New York, NY USA',
+  "statement": 'Interdisciplinary performance comission for Financial Corps fundraising event. Inspirations: Intersection of various lives. Constrution and deconstruction.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art44 = {
+  "link": "https://farm3.static.flickr.com/2468/3720653867_539c3c5d28_o.jpg",
+  "title": 'fella',
+  "media": 'at the virginia center for the creative arts, amherst, va, usa',
+  "statement": 'outdoor interdisciplinary performance.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art45 = {
+  "link": "https://farm3.static.flickr.com/2563/3714813466_9be109e7b5_o.jpg",
+  "title": 'glimmer',
+  "media": 'at i-park, east haddam, ct',
+  "statement": 'outdoor installation and performance in the forest.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art46 = {
+  "link": "https://farm4.static.flickr.com/3437/3720894045_65b62f1547_o.jpg",
+  "title": 'tsumiki',
+  "media": 'at exit art, nyc. live audience performance project',
+  "statement": 'repeating continuously during the exhibition, i build a meticulously perfect geometric structure that surrounds me and appears to trap me inside. once the structure is complete, i come out of it at once using only the force of my body. once outside of the structure, i rush to clean it up and start building it again from the dismantled structure. each construction takes about 15-20 minutes.',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
+const art47 = {
+  "link": "https://farm3.static.flickr.com/2621/3723930707_eef04ccd42_o.jpg",
+  "title": 'seesaw',
+  "media": 'at exit art, nyc. live audience performance project',
+  "statement": 'live performance in the window space on busy street in nyc. i walked extremely slow motion as in buddhist meditation (3-4 min. to cross 8 feet seesaw) back and forth on top of seesaw for the 3 day group performance event',
+  "imageShape": "landscape",
+  "includeingallery": true,
+}
 
 const art = [
     art0,
@@ -306,6 +370,14 @@ const art = [
     art35,
     art36,
     art37,
+    art40,
+    art41,
+    art42,
+    art43,
+    art44,
+    art45,
+    art46,
+    art47,
 ]
 
 export default art
